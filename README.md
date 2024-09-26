@@ -1,16 +1,12 @@
 # core_flutter_exam_final_app
 
 A new Flutter project.
+<h1>Student Data</h1>
+<p>
+ 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <img src="https://github.com/user-attachments/assets/ef06d58a-6c3d-4927-b703-8a4d263c4860" width="22%" Height="35%">
+  <img src="https://github.com/user-attachments/assets/aeb5b618-c22f-4d69-a457-8fcc603db5a2" width="22%" Height="35%">
+  <img src="https://github.com/user-attachments/assets/fdecf61d-a016-4446-9cf5-597170d524e0" width="22%" Height="35%">
+  <img src="https://github.com/user-attachments/assets/e04a4854-2569-42c3-ab15-2b6070a7ff0b" width="22%" Height="35%">
+  </p>
